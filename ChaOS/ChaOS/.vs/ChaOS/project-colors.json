@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d960126-578a-4c00-99ad-d21517604752": {
+      "ProjectGuid": "9d960126-578a-4c00-99ad-d21517604752",
+      "DisplayName": "Chaos",
+      "ColorIndex": 0
+    },
+    "cfa2774f-545f-4165-ac82-4af8b61debf7": {
+      "ProjectGuid": "cfa2774f-545f-4165-ac82-4af8b61debf7",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 1
+    },
+    "b2c4e99b-3f6e-4b01-b4a8-656abb7ae1a3": {
+      "ProjectGuid": "b2c4e99b-3f6e-4b01-b4a8-656abb7ae1a3",
+      "DisplayName": "InterProcess",
+      "ColorIndex": 2
+    },
+    "f668a64b-c64d-4e8d-87ce-c0a9ee3bedcc": {
+      "ProjectGuid": "f668a64b-c64d-4e8d-87ce-c0a9ee3bedcc",
+      "DisplayName": "InterProcess",
+      "ColorIndex": 3
+    },
+    "89b7e812-c37b-4333-a51e-e482d5baabb2": {
+      "ProjectGuid": "89b7e812-c37b-4333-a51e-e482d5baabb2",
+      "DisplayName": "InterProcess",
+      "ColorIndex": 4
+    },
+    "b6d076e8-f71c-4f26-ab13-904b027720ae": {
+      "ProjectGuid": "b6d076e8-f71c-4f26-ab13-904b027720ae",
+      "DisplayName": "ConsoleApplication1",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
